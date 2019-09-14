@@ -10,7 +10,7 @@ https://camo.githubusercontent.com/915b7be44ada53c290eb157634330494ebe3e30a/6874
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/nthXNEv)
 
 Automated builds are available for stable releases and the unstable master branch.
-Binary archives are published at https://seth.severeum.org/downloads/.
+Binary archives are published at https://seth.pgn.one/downloads/.
 
 ## Building the source
 
